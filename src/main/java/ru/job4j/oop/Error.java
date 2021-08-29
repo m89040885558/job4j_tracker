@@ -22,8 +22,8 @@ public class Error {
 
     public static void main(String[] args) {
         Error error = new Error(true, 10406, "Critical ERrOR");
-        Error error_default = new Error();
+        Error errorDefault = new Error();
         error.printInfo();
-        error_default.printInfo();
+        errorDefault.printInfo();
     }
 }
