@@ -16,6 +16,5 @@ public class MagicBall {
         } else {
             System.out.println("Хз");
         }
-        //System.out.println(answer);
     }
 }
