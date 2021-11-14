@@ -7,6 +7,7 @@ public class Engineer extends Profession {
         super(name, surname, education, birthday);
         this.category = category;
     }
+
     public void doDesign() {
     }
 }
